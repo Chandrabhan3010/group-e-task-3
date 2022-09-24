@@ -1,5 +1,5 @@
 .main{
-    background-color: #3b3b3b;
+    background-color:black;
     height: 680px;
     width: 100%;
     display: flex;
@@ -26,4 +26,21 @@
     margin-top: 15px;   
     margin-right: 15px;
     border-radius: 10px;
+}
+.div
+{
+    height: 225px;
+    display: flex;
+    border-radius: 10px;
+}
+.div-a{
+    background-color:  #3b3b3b;
+    width: 459px;
+    height: 200px;
+    display: flex;
+    border-radius: 10px;
+    margin: 5px;
+}
+.img{
+    margin: auto;
 }
