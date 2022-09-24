@@ -4,7 +4,7 @@
     width: 100%;
     display: flex;
     border-radius: 10px;
-    box-shadow: 2px 2px  2px cyan;
+    box-shadow: 2px 2px  2px black;
 }
 .main-1{
     width: 70%;
@@ -43,4 +43,11 @@
 }
 .img{
     margin: auto;
+    border: grey 1px solid;
+    border-radius: 15px;
+    border: radius 50px;;
+}
+.mic{
+    margin-top: 8px;
+    margin-right: 8px;
 }
